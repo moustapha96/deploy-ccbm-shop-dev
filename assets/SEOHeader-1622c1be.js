@@ -1,1 +1,0 @@
-import{j as e,H as n}from"./index-a890a50a.js";import"./vendor-579ab53f.js";const a=({title:t,description:r,keywords:s})=>e.jsxs(n,{children:[e.jsx("title",{children:t}),e.jsx("meta",{name:"description",content:r}),e.jsx("meta",{name:"keywords",content:s})]});export{a as S};
