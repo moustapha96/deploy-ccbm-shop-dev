@@ -1,0 +1,1 @@
+import{t}from"./index.C32mkGiH.js";async function a(e,o){try{return(await t.post("api/creditcommandes/details",{partner_id:e,order_id:o})).data}catch(r){throw console.error("Erreur lors de la sélection des abonnements:",r),r}}export{a as g};
