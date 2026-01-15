@@ -1,1 +1,0 @@
-import{j as r,N as d}from"./react-CJBSR92-u_nCHxWM.js";function h(s){const{datas:n=[],startLength:a,endLength:e,children:i}=s;return r.jsx(r.Fragment,{children:n&&n.length>=e&&n.slice(a,e).map((t,o)=>{const c=t&&t.id||t&&t.slug||`data-iteration-${a+o}`;return r.jsx(d.Fragment,{children:i({datas:t})},c)})})}export{h as D};
