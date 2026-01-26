@@ -1,0 +1,1 @@
+import{j as a}from"./index-BY5VJ1ij.js";import{R as d}from"./vendor-Bb8_f6lk.js";function h(i){const{datas:n=[],startLength:r,endLength:e,children:o}=i;return a.jsx(a.Fragment,{children:n&&n.length>=e&&n.slice(r,e).map((t,s)=>{const c=t&&t.id||t&&t.slug||`data-iteration-${r+s}`;return a.jsx(d.Fragment,{children:o({datas:t,index:r+s})},c)})})}export{h as D};
